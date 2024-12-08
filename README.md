@@ -76,8 +76,8 @@ Feel free to explore my repositories, and if you find something interesting or h
 
   <!-- GitHub Stats -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&theme=merko&locale=en" alt="chitresh178779" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitresh178779&theme=dark" alt="chitresh178779" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&theme=merko&locale=en" alt="chitresh178779" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chitresh178779&theme=dark" alt="chitresh178779" /></p>
 
 
 
