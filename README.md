@@ -81,8 +81,22 @@ Feel free to explore my repositories, and if you find something interesting or h
 
   <!-- GitHub Stats -->
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&theme=merko&locale=en" alt="chitresh178779" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chitresh178779&theme=dark" alt="chitresh178779" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <!-- Streak Stats -->
+  <img width="413" src="https://streak-stats.demolab.com/?user=chitresh178779&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <!-- General GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=chitresh178779&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <!-- Top Languages -->
+  <br>
+  <a href="https://github.com/KeertanaGupta/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh178779&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Top Langs" />
+  </a>
+</div>
+<br/>
 
 
 
