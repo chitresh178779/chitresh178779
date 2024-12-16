@@ -87,7 +87,7 @@
   
   <!-- Top Languages -->
   <br>
-  <a href="https://github.com/KeertanaGupta/github-readme-stats">
+  <a href="https://github.com/chitresh178779/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh178779&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Top Langs" />
   </a>
 </div>
