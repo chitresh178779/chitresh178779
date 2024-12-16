@@ -2,11 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chitresh+Gurjar!;" />
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitresh178779&label=Profile%20views&color=0e75b6&style=flat" alt="chitresh178779" /> </p>
-<h3 align="justify">
-Welcome to My GitHub Profile!
-Hi there! I am an undergraduate Computer Science and Engineering (CSE) student with a passion for programming, web development, and Artificial Intelligence. I am continuously learning and exploring new technologies to build innovative and efficient solutions to real-world problems.
-Feel free to explore my repositories, and if you find something interesting or have any suggestions, don't hesitate to reach out!.</h3>
-
 
   <h2>About Me 🌟</h2>
 <p>
