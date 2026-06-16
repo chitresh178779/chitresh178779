@@ -1,98 +1,36 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chitresh+Gurjar!;" />
-</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chitresh178779&label=Profile%20views&color=0e75b6&style=flat" alt="chitresh178779" /> </p>
+Hi 👋 My name is chitresh gurjar
+================================
 
-  <h2>About Me 🌟</h2>
-<p>
-    👨‍💻 I'm an undergraduate <strong>Computer Science and Engineering (CSE)</strong> student with a strong interest in <strong>programming</strong> and <strong>development</strong>. 
+Web Developer
+-------------
+
+I build software that combines functionality, performance, and user experience. My interests span full-stack development, AI, and system design. I enjoy tackling challenging problems, learning new technologies, and turning ideas into impactful products. Always curious, always shipping.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Mysite](http://portfolio-two-delta-hukiza0gab.vercel.app/)
+* ✉️  You can contact me at [chitresh.gurjar8779@gmail.com](mailto:chitresh.gurjar8779@gmail.com)
+* 🚀  I'm currently working on [peercolab](http://peercolab-frontend.vercel.app)
+* 🧠  I'm currently learning Machine Learning and Automation
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-<p>
-    💻 My skills include working with languages like <strong>C</strong>, <strong>C++</strong>, and <strong>JavaScript</strong>, as well as creating responsive designs using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Bootstrap</strong>.
-</p>
-<p>
-    🚀 I aim to pursue a career in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>, and I enjoy exploring innovative solutions to complex problems. 
-</p>
 
+### Socials
 
-  <!-- Interests Section -->
-<h2>My Interests 💡</h2>
-<ul>
-    <li>🤖 Artificial Intelligence and Machine Learning</li>
-    <li>🌐 Web Development and Frontend Design</li>
-    <li>🏆 Competitive Programming</li>
-    <li>🔍 Exploring new technologies and tools</li>
-    <li>🧩 Problem-solving and algorithm design</li>
-</ul>
-<!-- Contact Section -->
-<h3>📫 How to reach me:</h3>
-<p><strong>Email:</strong> <a href="mailto:chitresh.gurjar8779@gmail.com">chitresh.gurjar8779@gmail.com</a></p>
+<p align="left"> <a href="https://www.github.com/chitresh178779" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@chitresh.gurjarr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/chitresh-gurjar-aa2a23304" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/chitresh178779" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/chitresh178779?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
+### Badges
 
+<b>My GitHub Stats</b>
 
-  <!-- Social Links -->
-  <h3>Connect with me:</h3>
-  <p align="left">
-      <a href="https://dev.to/chitreshdev8779" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chitreshdev8779" height="30" width="40" />
-      </a>
-      <a href="https://linkedin.com/in/chitresh gurjar" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitresh gurjar" height="30" width="40" />
-      </a>
-  </p>
+<a href="http://www.github.com/chitresh178779"><img src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="chitresh178779's GitHub stats" /></a>
 
-  <!-- Programming Languages -->
-  <h3>Programming Languages:</h3>
-  <p align="left">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      </a>
-  </p>
+<a href="http://www.github.com/chitresh178779"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chitresh178779&stroke=ffffff&background=27272a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <!-- Development Tools -->
-  <h3>Development Tools:</h3>
-  <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" style="filter: brightness(0) invert(1);" />
-</a>
+<a href="https://github.com/chitresh178779" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh178779&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
-    
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  </p>
-
-  <!-- GitHub Stats -->
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <!-- Streak Stats -->
-  <img width="413" src="https://streak-stats.demolab.com/?user=chitresh178779&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-  <!-- General GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=chitresh178779&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <!-- Top Languages -->
-  <br>
-  <a href="https://github.com/chitresh178779/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh178779&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Top Langs" />
-  </a>
-</div>
-<br/>
-
-
-
-
+<div width="100%" align="center"><a href="https://github.com/chitresh178779/peercolab" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chitresh178779&repo=peercolab&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/chitresh178779/DevPulse" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chitresh178779&repo=DevPulse&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
