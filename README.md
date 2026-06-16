@@ -22,7 +22,7 @@ I build software that combines functionality, performance, and user experience. 
 <a href="https://www.github.com/chitresh178779" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chitresh178779?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
-
+###Badges
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/chitresh178779"><img src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="chitresh178779's GitHub stats" /></a>
