@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Chitresh Gurjar
 
-### Building AI Products • Full Stack Developer • Founder
+### Building AI Products • Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+NorthStar;AI+Engineer;Full+Stack+Developer;Always+Learning+Something+New" />
 
@@ -20,9 +20,6 @@ Focus:
   - Full Stack Development
   - System Design
   - Product Building
-
-Currently Building:
-  - NorthStar
 ```
 
 ---
@@ -40,27 +37,11 @@ Currently Building:
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chitresh178779&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chitresh178779&theme=tokyonight&hide_border=true"/>
-
+<img src="https://ghstats.dev/api/card?username=chitresh178779&theme=tokyonight"/>
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitresh178779&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chitresh178779&theme=algolia&no-frame=true&row=1&column=7"/>
-
+<p align = "center">
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=chitresh178779&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +68,6 @@ Currently Building:
 
 ## 🚀 Current Goals
 
-- Build NorthStar
 - Learn scalable AI architecture
 - Ship products consistently
 - Open Source Contributions
@@ -104,6 +84,10 @@ Currently Building:
 
 <a href="https://github.com/chitresh178779">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.instagram.com/chitresh.gurjarr?igsh=NmNyY25pcjQzZTVx">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
