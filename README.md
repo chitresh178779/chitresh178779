@@ -4,7 +4,7 @@
 
 ### Building AI Products • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+NorthStar;AI+Engineer;Full+Stack+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+solutions;AI+Engineer;Full+Stack+Developer;Always+Learning+Something+New" />
 
 </div>
 
