@@ -37,32 +37,34 @@ Focus:
 ## 🚀 Featured Projects
 
 ### DevPulse — AI-Powered Developer Command Center
-> **Solo Project**
+
+**[Solo Project]**
 
 AI-powered developer dashboard built to bring GitHub analytics, developer insights, and AI-assisted code auditing into one workspace.
 
 **Tech:** Django • Django REST Framework • React.js • Tailwind CSS • Gemini API • GitHub API
 
-- GitHub analytics dashboard to reduce context switching and improve developer productivity
-- Gemini-powered AI Code Auditor for security and performance analysis
-- REST-based React + Django architecture designed for scalable developer workflows
+* GitHub analytics dashboard to reduce context switching and improve developer productivity
+* Gemini-powered AI Code Auditor for security and performance analysis
+* REST-based React + Django architecture designed for scalable developer workflows
 
-[🔗 View Repository]((https://github.com/chitresh178779/DevPulse))
+[🔗 View Repository](https://github.com/chitresh178779/DevPulse)
 
 ---
 
 ### StudySync — Intelligent Peer Collaboration Hub
-> **Team Project**
+
+**[Team Project]**
 
 AI-powered collaborative learning platform designed around peer matching, virtual study rooms, and intelligent study planning.
 
 **Tech:** React.js • TypeScript • Django REST Framework • FastAPI • PostgreSQL • Gemini API • LiveKit
 
-- Peer matching and virtual study rooms with Google OAuth authentication
-- Gemini Vision-based timetable parsing with a FastAPI CSP scheduler for study planning
-- LiveKit-powered real-time communication for collaborative study sessions
+* Peer matching and virtual study rooms with Google OAuth authentication
+* Gemini Vision-based timetable parsing with a FastAPI CSP scheduler for study planning
+* LiveKit-powered real-time communication for collaborative study sessions
 
-[🔗 View Repository]([YOUR_STUDYSYNC_REPO_LINK](https://github.com/KeertanaGupta/StudySync))
+[🔗 View Repository](https://github.com/KeertanaGupta/StudySync)
 
 ---
 
