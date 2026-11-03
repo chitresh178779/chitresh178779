@@ -36,6 +36,22 @@ Focus:
 
 ## 🚀 Featured Projects
 
+### DockerOps — Interactive Docker Learning Game
+
+**[Solo Project • Built with Claude]**
+
+Scenario-driven game where players resolve production-style incidents by running real Docker commands inside an isolated Docker-in-Docker sandbox.
+
+**Tech:** Next.js • NestJS • TypeScript • Redis • xterm.js • React Flow • Azure • Vercel
+
+* Real Docker-in-Docker sandbox: progress is checked against actual container, network and volume state, not by matching command strings
+* In-browser terminal (xterm.js) with a live visual topology of the environment
+* Levels defined as YAML scenarios, validated against a shared Zod schema
+
+[🌐 Live Demo](https://dockerops-pi.vercel.app/) • [🔗 View Repository](https://github.com/chitresh178779/dockerops)
+
+---
+
 ### DevPulse — AI-Powered Developer Command Center
 
 **[Solo Project]**
